@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: floralwhite;
+}
+
+header .container{
+    align-items: center;
+    background-color: darkcyan;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.coins{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
