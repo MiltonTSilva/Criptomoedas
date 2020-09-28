@@ -1,6 +1,6 @@
 console.log('Armazenando apikey')
 
-let apikey = {key: 'f5b0779f-0772-487b-93d2-c7cc03e6e8c9' }
+let apikey = {key: '' }
 
 //Get Fetch requisition
 
